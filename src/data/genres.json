@@ -1,0 +1,62 @@
+[
+  {
+    "id": "comedia",
+    "name": "Comedia",
+    "name_en": "Comedy",
+    "image": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg"
+  },
+  {
+    "id": "familiar",
+    "name": "Familiar",
+    "name_en": "Family",
+    "image": "https://img.youtube.com/vi/SkVqJ1SGeL0/0.jpg"
+  },
+  {
+    "id": "fantasia",
+    "name": "Fantasía",
+    "name_en": "Fantasy",
+    "image": "https://img.youtube.com/vi/eRsGyueVLvQ/maxresdefault.jpg"
+  },
+  {
+    "id": "aventura",
+    "name": "Aventura",
+    "name_en": "Adventure",
+    "image": "https://img.youtube.com/vi/B4EPW7JUMTM/maxresdefault.jpg"
+  },
+  {
+    "id": "sci-fi",
+    "name": "Sci-Fi",
+    "name_en": "Sci-Fi",
+    "image": "https://img.youtube.com/vi/TLkA0RELQ1g/maxresdefault.jpg"
+  },
+  {
+    "id": "accion",
+    "name": "Acción",
+    "name_en": "Action",
+    "image": "https://img.youtube.com/vi/vZVQcPj4LP8/maxresdefault.jpg"
+  },
+  {
+    "id": "misterio",
+    "name": "Misterio",
+    "name_en": "Mystery",
+    "image": "https://img.youtube.com/vi/WY9CTDM3l4M/maxresdefault.jpg"
+  },
+  {
+    "id": "drama",
+    "name": "Drama",
+    "name_en": "Drama",
+    "image": "https://img.youtube.com/vi/1x3RRrqJWKA/maxresdefault.jpg"
+  },
+  {
+    "id": "romance",
+    "name": "Romance",
+    "name_en": "Romance",
+    "image": "https://img.youtube.com/vi/yf2tBjHvx9s/maxresdefault.jpg"
+  },
+  {
+    "id": "terror",
+    "name": "Terror",
+    "name_en": "Horror",
+    "image": "https://img.youtube.com/vi/ShGElGusepA/maxresdefault.jpg"
+  }
+]

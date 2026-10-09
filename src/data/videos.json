@@ -1,0 +1,182 @@
+[
+  {
+    "id": "aqz-KE-bpKQ",
+    "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "title": "Big Buck Bunny",
+    "description": "Un gran conejo gordo despierta para disfrutar del hermoso día, hasta que tres roedores maliciosos lo provocan, iniciando una épica batalla.",
+    "description_en": "A large, good-natured rabbit wakes up to enjoy a peaceful forest day, until three mischievous rodents push him too far, unleashing an epic showdown.",
+    "duration": "10:34",
+    "genres": [
+      "Comedia",
+      "Familiar"
+    ],
+    "genres_en": [
+      "Comedy",
+      "Family"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+    "createdAt": "2026-07-20"
+  },
+  {
+    "id": "eRsGyueVLvQ",
+    "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "title": "Sintel",
+    "description": "Una joven emprende un viaje épico para rescatar a su pequeño amigo dragón en un mundo de fantasía lleno de peligros.",
+    "description_en": "A solitary young warrior embarks on a dangerous and emotional journey to find and rescue her baby dragon companion across treacherous lands.",
+    "duration": "14:48",
+    "genres": [
+      "Fantasía",
+      "Aventura"
+    ],
+    "genres_en": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/eRsGyueVLvQ/maxresdefault.jpg",
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "TLkA0RELQ1g",
+    "url": "https://www.youtube.com/watch?v=TLkA0RELQ1g",
+    "title": "Elephants Dream",
+    "description": "Dos personajes, Proog y Emo, exploran un mundo extraño y surrealista parecido a una máquina infinita.",
+    "description_en": "Two enigmatic travelers, Proog and Emo, wander through a surreal, mechanical universe where reality and thought intertwine.",
+    "duration": "10:53",
+    "genres": [
+      "Sci-Fi",
+      "Misterio"
+    ],
+    "genres_en": [
+      "Sci-Fi",
+      "Mystery"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/TLkA0RELQ1g/maxresdefault.jpg",
+    "createdAt": "2026-05-10"
+  },
+  {
+    "id": "SkVqJ1SGeL0",
+    "url": "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
+    "title": "Caminandes 3: Llamigos",
+    "description": "Koro hace un nuevo y poco probable amigo pingüino en su aventura invernal.",
+    "description_en": "Koro the llama discovers an unlikely penguin friend during a harsh, snowy winter in Patagonia, leading to heartwarming antics.",
+    "duration": "2:30",
+    "genres": [
+      "Comedia",
+      "Familiar"
+    ],
+    "genres_en": [
+      "Comedy",
+      "Family"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/SkVqJ1SGeL0/0.jpg",
+    "createdAt": "2026-07-04"
+  },
+  {
+    "id": "yf2tBjHvx9s",
+    "url": "https://www.youtube.com/watch?v=yf2tBjHvx9s",
+    "title": "ERSATZ",
+    "description": "Una hipnótica exploración visual de arquitectura fractal, geometrías abstractas y sensaciones sensoriales de vanguardia.",
+    "description_en": "A hypnotic visual exploration of fractal architecture, abstract geometry, and cutting-edge sensory animation.",
+    "duration": "26:52",
+    "genres": [
+      "Sci-Fi",
+      "Fantasía"
+    ],
+    "genres_en": [
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/yf2tBjHvx9s/maxresdefault.jpg",
+    "createdAt": "2026-08-08"
+  },
+  {
+    "id": "WY9CTDM3l4M",
+    "url": "https://www.youtube.com/watch?v=WY9CTDM3l4M",
+    "title": "The God Man",
+    "description": "Una fascinante odisea animada que reflexiona sobre el origen del cosmos, la divinidad interior y el destino del ser humano.",
+    "description_en": "A mesmerizing animated odyssey reflecting on the origins of the cosmos, inner divinity, and the eternal fate of humankind.",
+    "duration": "09:31",
+    "genres": [
+      "Fantasía",
+      "Misterio"
+    ],
+    "genres_en": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/WY9CTDM3l4M/maxresdefault.jpg",
+    "createdAt": "2026-08-08"
+  },
+  {
+    "id": "vZVQcPj4LP8",
+    "url": "https://www.youtube.com/watch?v=vZVQcPj4LP8",
+    "title": "Jumpcut! Episode 1 - Off Script",
+    "description": "Una comedia de animación trepidante donde los personajes descubren las reglas del medio cinematográfico y rompen el guión original.",
+    "description_en": "A fast-paced animated comedy where the characters become self-aware of film tropes and rebel against the director's script.",
+    "duration": "4:33",
+    "genres": [
+      "Comedia",
+      "Acción"
+    ],
+    "genres_en": [
+      "Comedy",
+      "Action"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/vZVQcPj4LP8/maxresdefault.jpg",
+    "createdAt": "2026-08-08"
+  },
+  {
+    "id": "ShGElGusepA",
+    "url": "https://www.youtube.com/watch?v=ShGElGusepA",
+    "title": "Alien: MONDAY",
+    "description": "Un tributo de animación con atmósfera tensa e hiperrealista, ambientado en las profundidades silenciosas de una estación espacial desolada.",
+    "description_en": "A tense, atmospheric animated tribute set within the chilling silence and dark corridors of a desolate deep-space station.",
+    "duration": "19:28",
+    "genres": [
+      "Sci-Fi",
+      "Terror"
+    ],
+    "genres_en": [
+      "Sci-Fi",
+      "Horror"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/ShGElGusepA/maxresdefault.jpg",
+    "createdAt": "2026-08-08"
+  },
+  {
+    "id": "1x3RRrqJWKA",
+    "url": "https://www.youtube.com/watch?v=1x3RRrqJWKA",
+    "title": "The Looking Planet",
+    "description": "Un joven creador cósmico desafía las estrictas directivas galácticas para encender la chispa de la vida en un nuevo mundo.",
+    "description_en": "A young celestial engineer defies strict universal directives to craft wondrous planetary wonders and spark cosmic life.",
+    "duration": "16:04",
+    "genres": [
+      "Sci-Fi",
+      "Aventura"
+    ],
+    "genres_en": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/1x3RRrqJWKA/maxresdefault.jpg",
+    "createdAt": "2026-08-08"
+  },
+  {
+    "id": "B4EPW7JUMTM",
+    "url": "https://www.youtube.com/watch?v=B4EPW7JUMTM",
+    "title": "FOREVERGREEN",
+    "description": "Una oda poética a la majestuosidad de la naturaleza silvestre y al ciclo inmortal de renovación de los antiguos bosques.",
+    "description_en": "A poetic visual ode to the majesty of wild nature and the eternal cycle of rebirth within ancient, enchanted forests.",
+    "duration": "13:05",
+    "genres": [
+      "Fantasía",
+      "Aventura"
+    ],
+    "genres_en": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "thumbnail": "https://img.youtube.com/vi/B4EPW7JUMTM/maxresdefault.jpg",
+    "createdAt": "2026-08-08"
+  }
+]
